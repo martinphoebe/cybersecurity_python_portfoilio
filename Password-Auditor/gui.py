@@ -96,7 +96,7 @@ strength_label.pack(pady=10)
 
 score_label = tk.Label(
     results,
-    text="Security score: --/10",
+    text="Security score: --/6",
     font=("Arial", 11),
     bg=PANEL,
     fg=GREY
