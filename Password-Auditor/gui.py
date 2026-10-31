@@ -158,7 +158,7 @@ def analyse_password():
     )
 
     score_label.config(
-        text=f"Security score: {score}/10"
+        text=f"Security score: {score}/6"
     )
 
     progress["value"] = score
